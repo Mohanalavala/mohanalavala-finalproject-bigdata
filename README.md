@@ -1,7 +1,8 @@
 # mohanalavala-finalproject-bigdata
-### - **Author - Mohan Krishna Alavala**
+###  **Author - [Mohan Krishna Alavala](https://github.com/Mohanalavala)**
 ## TextData Source Links: 
 **Website**: https://www.gutenberg.org/
+
 **Text Data URL**: http://gutenberg.org/files/65119/65119-0.txt 
 ## Tools and Languages used:
 - Python
@@ -85,8 +86,14 @@ plt.title("Most used words in Homecoming Horde")
 plt.show()
 ```
 ## Charting Results:
+- Sorted Result:
+ ![tuplelist](https://github.com/Mohanalavala/mohanalavala-finalproject-bigdata/blob/main/sort1.PNG)
 
+- Chart result:
+  ![chart](https://github.com/Mohanalavala/mohanalavala-finalproject-bigdata/blob/main/mohanresults.PNG)
 ## References:
-
+- [stackoverflow](https://ahmedrebai.medium.com/what-we-can-do-with-apache-spark-and-stack-overflow-data-8335fa781bb5)
+- [geeksforgeeks](https://www.geeksforgeeks.org/python-lambda/)
+- [Databricks Documentation](https://docs.databricks.com/)
 
 
