@@ -91,6 +91,8 @@ plt.show()
 
 - Chart result:
   ![chart](https://github.com/Mohanalavala/mohanalavala-finalproject-bigdata/blob/main/mohanresults.PNG)
+## Final Project File:
+- Here is my [project file](https://github.com/Mohanalavala/mohanalavala-finalproject-bigdata/blob/main/mohan-finalproject.py) 
 ## References:
 - [stackoverflow](https://ahmedrebai.medium.com/what-we-can-do-with-apache-spark-and-stack-overflow-data-8335fa781bb5)
 - [geeksforgeeks](https://www.geeksforgeeks.org/python-lambda/)
